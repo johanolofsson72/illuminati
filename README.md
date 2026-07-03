@@ -54,6 +54,12 @@ Allt är skrivet på svenska, korslänkat (fungerar som ren markdown och i **Obs
 | 12 | [Originaldokument](12-originaldokument.md) | Primärkällornas korpus |
 | 13 | [Emblem och symboler](13-emblem-och-symboler.md) | Äkta bildmaterial |
 | 14 | [Ordens koppling till religion](14-religion.md) | Antiklerikal deism, den dolda religionskritiken, Jesus-tolkningen |
+| 15 | [Frimureriet och religionen](15-frimureriet-och-religionen.md) | Varför förknippas de trots religionen? |
+| 16 | [Kvinnor och orden](16-kvinnor-och-orden.md) | Uteslutning, instrumentell syn, den obefintliga kvinnliga grenen |
+| 17 | [Koder, chiffer och hemlighetsmakeri](17-koder-chiffer-hemlighetsmakeri.md) | Täcknamn, kodade ortnamn, kalendern, sigillen |
+| 18 | [Ekonomi och finansiering](18-ekonomi-och-finansiering.md) | Avgifter, fattigunderstöd, decentraliserad kassa |
+| 19 | [Utbildnings- och studiesystemet](19-utbildnings-och-studiesystemet.md) | Läskanon, Minervalakademier, självstudier |
+| 20 | [Övervakning och kontroll](20-overvakning-och-kontroll.md) | Själsspioneriet — Quibus Licet, dossierer, kompartmentalisering |
 
 ### Översatta primärkällor — [`primarkallor/`](primarkallor/)
 
