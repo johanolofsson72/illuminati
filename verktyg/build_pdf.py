@@ -28,6 +28,8 @@ ORDER = [
     "15-frimureriet-och-religionen.md", "16-kvinnor-och-orden.md",
     "17-koder-chiffer-hemlighetsmakeri.md", "18-ekonomi-och-finansiering.md",
     "19-utbildnings-och-studiesystemet.md", "20-overvakning-och-kontroll.md",
+    "21-weishaupt-vs-knigge.md", "22-ordens-sprakbruk-och-retorik.md",
+    "23-kallkritik-och-forskningslage.md",
     "primarkallor/README.md",
     "primarkallor/01-einige-originalschriften.md", "primarkallor/02-verbesserte-system.md",
     "primarkallor/03-grader-och-ritualer.md", "primarkallor/04-stadgarna-fullstandiga.md",

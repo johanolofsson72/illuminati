@@ -60,6 +60,9 @@ Allt är skrivet på svenska, korslänkat (fungerar som ren markdown och i **Obs
 | 18 | [Ekonomi och finansiering](18-ekonomi-och-finansiering.md) | Avgifter, fattigunderstöd, decentraliserad kassa |
 | 19 | [Utbildnings- och studiesystemet](19-utbildnings-och-studiesystemet.md) | Läskanon, Minervalakademier, självstudier |
 | 20 | [Övervakning och kontroll](20-overvakning-och-kontroll.md) | Själsspioneriet — Quibus Licet, dossierer, kompartmentalisering |
+| 21 | [Weishaupt kontra Knigge](21-weishaupt-vs-knigge.md) | Maktkampen som knäckte orden inifrån |
+| 22 | [Ordens språkbruk och retorik](22-ordens-sprakbruk-och-retorik.md) | Läsnyckel: hur maktspråket ska förstås |
+| 23 | [Källkritik och forskningsläge](23-kallkritik-och-forskningslage.md) | Källornas partiskhet, forskningshistorien, det omtvistade |
 
 ### Översatta primärkällor — [`primarkallor/`](primarkallor/)
 
