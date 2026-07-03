@@ -24,7 +24,7 @@ ORDER = [
     "04-organisation-och-grader.md", "05-medlemmar.md", "06-frimureriet.md",
     "07-spridning.md", "08-forbud-och-fall.md", "09-eftermale-och-arv.md",
     "10-historia-vs-myt.md", "11-kallor.md", "12-originaldokument.md",
-    "13-emblem-och-symboler.md",
+    "13-emblem-och-symboler.md", "14-religion.md",
     "primarkallor/README.md",
     "primarkallor/01-einige-originalschriften.md", "primarkallor/02-verbesserte-system.md",
     "primarkallor/03-grader-och-ritualer.md", "primarkallor/04-stadgarna-fullstandiga.md",

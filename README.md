@@ -53,6 +53,7 @@ Allt är skrivet på svenska, korslänkat (fungerar som ren markdown och i **Obs
 | 11 | [Källor](11-kallor.md) | Samlad källförteckning och källkritik |
 | 12 | [Originaldokument](12-originaldokument.md) | Primärkällornas korpus |
 | 13 | [Emblem och symboler](13-emblem-och-symboler.md) | Äkta bildmaterial |
+| 14 | [Ordens koppling till religion](14-religion.md) | Antiklerikal deism, den dolda religionskritiken, Jesus-tolkningen |
 
 ### Översatta primärkällor — [`primarkallor/`](primarkallor/)
 
